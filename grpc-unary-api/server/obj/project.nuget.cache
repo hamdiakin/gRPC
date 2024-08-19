@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GkXNynQ9hVE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamdi.akin\\.nuget\\packages\\google.protobuf\\3.27.3\\google.protobuf.3.27.3.nupkg.sha512",
+    "C:\\Users\\hamdi.akin\\.nuget\\packages\\grpc\\2.46.6\\grpc.2.46.6.nupkg.sha512",
+    "C:\\Users\\hamdi.akin\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\hamdi.akin\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\hamdi.akin\\.nuget\\packages\\grpc.tools\\2.65.0\\grpc.tools.2.65.0.nupkg.sha512",
+    "C:\\Users\\hamdi.akin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

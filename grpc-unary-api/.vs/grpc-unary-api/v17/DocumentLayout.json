@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35FDAB-DE63-4586-8A23-B4648A3F5374}|client\\client.csproj|c:\\users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE35FDAB-DE63-4586-8A23-B4648A3F5374}|client\\client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35FDAB-DE63-4586-8A23-B4648A3F5374}|client\\client.csproj|c:\\users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35FDAB-DE63-4586-8A23-B4648A3F5374}|client\\client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C079528-8A41-4D88-913F-3B1953D025B0}|server\\server.csproj|c:\\users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C079528-8A41-4D88-913F-3B1953D025B0}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C079528-8A41-4D88-913F-3B1953D025B0}|server\\server.csproj|c:\\users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\greetingserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C079528-8A41-4D88-913F-3B1953D025B0}|server\\server.csproj|solutionrelative:server\\greetingserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C079528-8A41-4D88-913F-3B1953D025B0}|server\\server.csproj|c:\\users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C079528-8A41-4D88-913F-3B1953D025B0}|server\\server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C079528-8A41-4D88-913F-3B1953D025B0}|server\\server.csproj|c:\\users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\models\\greetinggrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C079528-8A41-4D88-913F-3B1953D025B0}|server\\server.csproj|solutionrelative:server\\models\\greetinggrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604EF5AE-D9BA-4428-A7E3-368D6ABE277F}|NewFolder1{604EF5AE-D9BA-4428-A7E3-368D6ABE277F}|C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\greeting.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{604EF5AE-D9BA-4428-A7E3-368D6ABE277F}|NewFolder1{604EF5AE-D9BA-4428-A7E3-368D6ABE277F}|solutionrelative:greeting.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "server",
+              "DocumentMoniker": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\server.csproj",
+              "RelativeDocumentMoniker": "server\\server.csproj",
+              "ToolTip": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\server.csproj",
+              "RelativeToolTip": "server\\server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T13:49:22.852Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreetingServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\GreetingServiceImpl.cs",
+              "RelativeDocumentMoniker": "server\\GreetingServiceImpl.cs",
+              "ToolTip": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\GreetingServiceImpl.cs",
+              "RelativeToolTip": "server\\GreetingServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:08:38.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GreetingGrpc.cs",
+              "DocumentMoniker": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\models\\GreetingGrpc.cs",
+              "RelativeDocumentMoniker": "server\\models\\GreetingGrpc.cs",
+              "ToolTip": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\models\\GreetingGrpc.cs",
+              "RelativeToolTip": "server\\models\\GreetingGrpc.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:07:30.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client",
+              "DocumentMoniker": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\client\\client.csproj",
+              "RelativeDocumentMoniker": "client\\client.csproj",
+              "ToolTip": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\client\\client.csproj",
+              "RelativeToolTip": "client\\client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T13:56:37.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\client\\Program.cs",
+              "RelativeDocumentMoniker": "client\\Program.cs",
+              "ToolTip": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\client\\Program.cs",
+              "RelativeToolTip": "client\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:56:07.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "greeting.proto",
+              "DocumentMoniker": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\greeting.proto",
+              "RelativeDocumentMoniker": "greeting.proto",
+              "ToolTip": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\greeting.proto",
+              "RelativeToolTip": "greeting.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-19T13:43:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "C:\\Users\\hamdi.akin\\source\\repos\\grpc\\grpc-unary-api\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:42:55.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
