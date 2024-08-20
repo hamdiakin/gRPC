@@ -1,4 +1,5 @@
-﻿using Greet;
+﻿using Calculator;
+using Greet;
 using Grpc.Core;
 using System;
 using System.Threading.Tasks;
@@ -20,19 +21,17 @@ namespace client
                 }
             });
 
-            var client = new GreetingService.GreetingServiceClient(channel);
+            var client = new CalculatorService.CalculatorServiceClient(channel);
 
-            var greeting = new Greeting
+            var request = new SumRequest()
             {
-                FirstName = "hamdi",
-                Lastname = "akin"
+                A = 1,
+                B = 2
             };
 
-            var request = new GreetingRequest() { Greeting = greeting };
-            var response = client.Greet(request);
+            var response = client.Sum(request);
 
             Console.WriteLine(response.Result);
-
             channel.ShutdownAsync().Wait();
             Console.ReadKey();
         }

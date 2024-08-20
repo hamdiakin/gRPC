@@ -22,3 +22,4 @@ C:\Users\hamdi.akin\source\repos\grpc\grpc-unary-api\client\obj\Debug\net8.0\ref
 C:\Users\hamdi.akin\source\repos\grpc\grpc-unary-api\client\obj\Debug\net8.0\client.pdb
 C:\Users\hamdi.akin\source\repos\grpc\grpc-unary-api\client\obj\Debug\net8.0\client.genruntimeconfig.cache
 C:\Users\hamdi.akin\source\repos\grpc\grpc-unary-api\client\obj\Debug\net8.0\ref\client.dll
+C:\Users\hamdi.akin\source\repos\grpc\grpc-unary-api\client\obj\Debug\net8.0\client.sourcelink.json
